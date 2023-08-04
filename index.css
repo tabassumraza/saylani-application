@@ -65,9 +65,7 @@
   position: absolute;
   top: 42px;
   left: 41px;
-  border-radius: var(--br-6xl);
   background-color: var(--color-forestgreen-400);
-  box-shadow: 2px 2px 4px 5px #d4d3d3;
   width: 389px;
   height: 849px;
 }
@@ -92,6 +90,8 @@
   box-shadow: 0 4px 4px 5px #d4d3d3;
   width: 252px;
   height: 69px;
+  color: white;
+  font-size: x-large;
 }
 .sign-up {
   position: absolute;
@@ -153,15 +153,7 @@
   width: 248px;
   height: 2px;
 }
-.saylani-welfare1 {
-  position: absolute;
-  top: 161px;
-  left: 83px;
-  box-shadow: 0 4px 4px #d4d3d3;
-  width: 267px;
-  height: 41px;
-  overflow: hidden;
-}
+
 .email-icon,
 .password-icon {
   position: absolute;
@@ -202,7 +194,7 @@
 .sale {
   top: 593px;
   left: 131px;
-  display: inline-block;
+  
   color: var(--color-black);
   width: 45px;
   height: 20px;
@@ -216,7 +208,6 @@
 .purchase {
   top: 595px;
   left: 235px;
-  display: inline-block;
   color: var(--color-black);
   width: 97px;
   height: 20px;
@@ -235,22 +226,14 @@
   font-weight: 600;
   color: var(--color-darkslateblue);
 }
-.ellipse-icon,
+
 .page-2 {
-  position: absolute;
-  top: 602px;
-  left: 114px;
-  width: 9px;
-  height: 9px;
-}
-.page-2 {
-  top: 919px;
-  left: 573px;
-  border-radius: var(--br-16xl);
+  top: 10px;
+  left: 73px;
+
   background-color: var(--color-white);
-  box-shadow: 0 2px 12px 3px #61b846;
   width: 430px;
-  height: 932px;
+  height: 700px;
   overflow: hidden;
   font-size: var(--font-size-xl);
   color: var(--color-lightgray);
