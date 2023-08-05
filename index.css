@@ -81,17 +81,18 @@
 .page-2-item {
   cursor: pointer;
   border: 0;
-  padding: 0;
+margin-left:20% ;
+margin-top: 5%;
   background-color: var(--color-forestgreen-200);
-  position: absolute;
-  top: 666px;
-  left: 89px;
   border-radius: var(--br-mini);
   box-shadow: 0 4px 4px 5px #d4d3d3;
-  width: 252px;
-  height: 69px;
+  width: 200px;
+  height: 50px;
   color: white;
   font-size: x-large;
+}
+.page2-p{
+  margin-left:15% ;
 }
 .sign-up {
   position: absolute;
@@ -110,39 +111,25 @@
 }
 
 .user-name {
-  position: absolute;
-  left: 93px;
-  top: 301px;
+ 
   line-height: 25px;
 }
 .line-icon {
-  top: 386px;
-  width: 248px;
+ 
   height: 2px;
 }
 .contact,
 .email {
-  position: absolute;
-  top: 362px;
-  left: 93px;
-  line-height: 25px;
-}
-.email {
-  top: 424px;
-}
-
-
-.password {
-  position: absolute;
-  left: 93px;
-}
-.password {
-  top: 481px;
   line-height: 25px;
 }
 
-
-
+.password {
+  line-height: 25px;
+}
+.formpage2{
+  margin-top: 20%;
+  padding-left: 20%;
+}
 
 .user-name-icon {
   position: absolute;
@@ -165,35 +152,19 @@
   overflow: hidden;
   opacity: 0.2;
 }
-.sale {
-  top: 593px;
-  left: 131px;
-  position: absolute;
-  color: var(--color-black);
-  width: 45px;
-  height: 20px;
-}
+
 
 .saylani-welfare2 {
-  margin: auto;
+  padding-left: 40px;
+  padding-top:30%;
   line-height: 25px;
-}
-.purchase {
-  position: absolute;
-  top: 595px;
-  left: 235px;
-  color: var(--color-black);
-  width: 97px;
-  height: 20px;
-}
-.saylani-welfare2 {
-  
   font-size: var(--font-size-16xl);
   color: var(--color-forestgreen-200);
 }
+
 .online-market-place1 {
  
- margin: auto;
+  padding-left: 20%;
   line-height: 25px;
   font-weight: 600;
   color: var(--color-darkslateblue);
@@ -201,13 +172,23 @@
 
 .page-2 {
   margin: auto;
-  top: 10px;
-  background-color: black;
+  margin-top: 10%;
+  background-color:;
   width: 430px;
-  height: 700px;
+  height: 450px;
   overflow: hidden;
   font-size: var(--font-size-xl);
   color: var(--color-lightgray);
+}
+input[type=text] {
+	appearance: none;
+	border: none;
+	outline: none;
+	border-bottom: .2em solid #dccfd3;
+	background: rgba(#E91E63, .2);
+	border-radius: .2em .2em 0 0;
+	padding: .4em;
+	color: #E91E63;
 }
 .page-16-child {
   position: absolute;
