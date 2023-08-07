@@ -592,29 +592,31 @@
 .page-4-child {
   position: absolute;
   top: 32px;
-  left: 380px;
+  left: 80%;
   border-radius: 50%;
-  width: 27px;
-  height: 27px;
+  width: 150px;
+  height: 150px;
   object-fit: cover;
 }
 .cart,
 .shopping {
   position: absolute;
-  top: 77px;
-  left: 42px;
+  top: 27px;
+  left: 5px;
   font-size: var(--font-size-6xl);
   line-height: 25px;
   font-weight: 300;
   color: var(--color-darkslateblue);
   display: inline-block;
-  width: 116px;
+  width: 200px;
+  font-size: 100px;
 }
 .cart {
-  top: 107px;
+  top: 117px;
   font-weight: 600;
   color: var(--color-forestgreen-200);
-  width: 82px;
+  width: 200px;
+  font-size: 90px;
 }
 .image-1-icon {
   position: absolute;
@@ -641,7 +643,7 @@
   top: 313px;
 }
 .div2 {
-  top: 188px;
+  top: 598px;
 }
 .div3,
 .div4 {
@@ -649,7 +651,7 @@
   left: 244px;
 }
 .div3 {
-  top: 188px;
+  top: 598px;
   line-height: 25px;
 }
 .div4 {
@@ -675,7 +677,7 @@
   position: absolute;
 }
 .div7 {
-  top: 188px;
+  top: 598px;
   left: 277px;
   line-height: 25px;
 }
@@ -711,7 +713,7 @@
 .div11,
 .div13 {
   position: absolute;
-  top: 188px;
+  top: 598px;
   left: 252px;
   width: 22px;
   height: 25px;
@@ -724,7 +726,7 @@
 .page-4-inner,
 .page-4-item {
   position: absolute;
-  top: 166px;
+  top: 566px;
   left: 42px;
   border-radius: var(--br-mini);
   width: 143px;
@@ -740,7 +742,7 @@
 }
 .line-div {
   position: absolute;
-  top: 537.5px;
+  top: 700px;
   left: 50.5px;
   box-shadow: 2px 4px 4px #bfbcbc;
   border-top: 1px solid var(--color-silver-200);
@@ -752,7 +754,7 @@
 .item-name1,
 .item-name2 {
   position: absolute;
-  top: 190px;
+  top: 598px;
   left: 188px;
   font-size: var(--font-size-5xs);
   line-height: 25px;
@@ -800,7 +802,7 @@
 }
 .div15,
 .total {
-  top: 563px;
+  top: 930px;
   left: 42px;
   font-size: var(--font-size-mini);
 }
@@ -817,7 +819,7 @@
 }
 .full-name1 {
   position: absolute;
-  top: 624px;
+  top: 720px;
   left: 46px;
   font-size: var(--font-size-xl);
   line-height: 25px;
@@ -833,14 +835,14 @@
 .email2,
 .phone-number {
   position: absolute;
-  top: 685px;
+  top: 770px;
   left: 46px;
   font-size: var(--font-size-xl);
   line-height: 25px;
   color: var(--color-lightgray);
 }
 .phone-number {
-  top: 747px;
+  top: 820px;
 }
 .page-4-child5 {
   position: absolute;
@@ -851,27 +853,27 @@
 }
 .shipping-address {
   position: absolute;
-  top: 805px;
+  top: 870px;
   left: 46px;
   font-size: var(--font-size-xl);
   line-height: 25px;
   color: var(--color-lightgray);
 }
-.page-4,
+
 .page-4-child6 {
-  position: absolute;
   top: 899px;
   left: 46px;
   width: 248px;
   height: 2px;
 }
 .page-4 {
-  top: 997px;
-  left: 2883px;
+  position: absolute;
+  top: 20px;
+  left: 20px;
   border-radius: var(--br-16xl);
+  
   background-color: var(--color-white);
-  box-shadow: 0 2px 12px 3px #61b846;
-  width: 430px;
+  width: 100%;
   height: 1213px;
   overflow: hidden;
   font-size: var(--font-size-3xs);
@@ -1183,8 +1185,8 @@
   font-size: var(--font-size-3xs);
 }
 .page-5 {
-  top: 997px;
-  left: 3380px;
+  top: 97px;
+  left: 80px;
   border-radius: var(--br-16xl);
   background-color: var(--color-white);
   box-shadow: 0 2px 12px 3px #61b846;
@@ -1226,8 +1228,8 @@
 }
 .shop-by-categery {
   position: absolute;
-  top: 1421px;
-  left: 2395px;
+  top: 675px;
+  left: 95px;
   font-size: var(--font-size-xs);
   line-height: 25px;
   display: inline-block;
@@ -1261,8 +1263,8 @@
 }
 .search-by-product {
   position: absolute;
-  top: 1364px;
-  left: 2446px;
+  top: 750px;
+  left: 46px;
   font-size: var(--font-size-mini);
   line-height: 25px;
   color: var(--color-silver-200);
@@ -1272,8 +1274,8 @@
 }
 .search-icon {
   position: absolute;
-  top: 1365px;
-  left: 2416px;
+  top: 750px;
+  left: 16px;
   width: 22px;
   height: 22px;
   object-fit: cover;
