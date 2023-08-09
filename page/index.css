@@ -1185,11 +1185,11 @@
   font-size: var(--font-size-3xs);
 }
 .page-5 {
-  top: 97px;
-  left: 80px;
-  border-radius: var(--br-16xl);
+  top: 17px;
+  left: 10px;
+ 
   background-color: var(--color-white);
-  box-shadow: 0 2px 12px 3px #61b846;
+  
   width: 430px;
   height: 932px;
   overflow: hidden;
@@ -1625,11 +1625,11 @@
 }
 .page-17 {
   position: absolute;
-  top: 2814px;
-  left: 3073px;
-  border-radius: var(--br-16xl);
+  top: 14px;
+  left: 23px;
+  
   background-color: var(--color-white);
-  box-shadow: 0 2px 12px 3px #61b846;
+  
   width: 430px;
   height: 932px;
   overflow: hidden;
@@ -1956,11 +1956,9 @@
 }
 .page-18 {
   position: absolute;
-  top: 2814px;
-  left: 3562px;
-  border-radius: var(--br-16xl);
-  background-color: var(--color-white);
-  box-shadow: 0 2px 12px 3px #61b846;
+  top: 14px;
+  left: 12px;
+  
   width: 430px;
   height: 932px;
   overflow: hidden;
@@ -2066,11 +2064,11 @@
   opacity: 0.5;
 }
 .page-19 {
-  top: 2814px;
-  left: 4069px;
-  border-radius: var(--br-16xl);
+  top: 14px;
+  left: 9px;
+ 
   background-color: var(--color-white);
-  box-shadow: 0 2px 12px 3px #61b846;
+ 
   width: 430px;
   height: 932px;
   font-size: var(--font-size-6xl);
@@ -2358,11 +2356,10 @@
   opacity: 0.5;
 }
 .page-13 {
-  top: 2812px;
-  left: 2586px;
+  top: 12px;
+  left: 26px;
   border-radius: var(--br-16xl);
   background-color: var(--color-white);
-  box-shadow: 0 2px 12px 3px #61b846;
   width: 430px;
   height: 932px;
   color: var(--color-silver-200);
@@ -2468,20 +2465,20 @@
   height: 0.73%;
   width: 2.41%;
   top: 77.63%;
-  left: 83.07%;
+  left: 83;
   color: var(--color-darkslateblue);
 }
 .inzamam-malik3 {
   height: 0.52%;
   width: 4.91%;
-  top: 78.93%;
-  left: 83.4%;
+  top: 78px;
+  left: 83;
 }
 .just-now-1 {
   height: 0.52%;
   width: 4.89%;
-  top: 79.45%;
-  left: 83.36%;
+  top: 90px;
+  left: 83px;
   font-size: var(--font-size-3xs);
   line-height: 25px;
 }
@@ -2494,8 +2491,8 @@
 .div27 {
   height: 0.52%;
   width: 2.37%;
-  top: 79.45%;
-  left: 87.51%;
+  top: 89.45%;
+  left: 8;
   font-size: var(--font-size-3xs);
   line-height: 25px;
   text-align: right;
@@ -2504,15 +2501,15 @@
   height: 0.78%;
   width: 4.87%;
   top: 80.21%;
-  left: 83.44%;
+  left: 8%;
   font-size: var(--font-size-xs);
   line-height: 12px;
   color: var(--color-silver-100);
 }
 .div28 {
   position: absolute;
-  top: 3105px;
-  left: 4375px;
+  top: 310px;
+  left: 4px;
   font-size: var(--font-size-mini);
   line-height: 25px;
   font-weight: 600;
@@ -2522,16 +2519,16 @@
   position: absolute;
   height: 0.08%;
   width: 7.36%;
-  top: 82.81%;
+  top: 82;
   right: 9.67%;
   bottom: 17.11%;
-  left: 82.97%;
+  left: 82;
   background-color: var(--color-gainsboro);
 }
 .total4 {
   position: absolute;
-  top: 3106px;
-  left: 4116px;
+  top: 140%;
+  left: ;
   font-size: var(--font-size-mini);
   line-height: 25px;
   font-weight: 600;
@@ -2549,8 +2546,8 @@
 }
 .change-status1 {
   position: absolute;
-  top: 86.67%;
-  left: 83.76%;
+  top: 95.67%;
+  left: 83;
   line-height: 25px;
   font-weight: 600;
   color: var(--color-silver-300);
@@ -2574,15 +2571,15 @@
   height: 0.52%;
   width: 4.91%;
   top: 83.8%;
-  left: 83.4%;
+  left: 90px;
   line-height: 25px;
   display: inline-block;
 }
 .just-now-2 {
   height: 0.52%;
   width: 4.89%;
-  top: 84.32%;
-  left: 83.36%;
+  top: 98.32%;
+  left: ;
   font-size: var(--font-size-3xs);
   line-height: 25px;
 }
@@ -2595,8 +2592,8 @@
 .div29 {
   height: 0.52%;
   width: 2.37%;
-  top: 84.32%;
-  left: 87.51%;
+  top: 100.32%;
+  left: 
   font-size: var(--font-size-3xs);
   line-height: 25px;
   text-align: right;
@@ -2604,16 +2601,16 @@
 .x-item-name-container4 {
   height: 0.78%;
   width: 4.87%;
-  top: 85.08%;
-  left: 83.44%;
+  top: 115.08%;
+  left: ;
   font-size: var(--font-size-xs);
   line-height: 12px;
   color: var(--color-silver-100);
 }
 .div30 {
   position: absolute;
-  top: 3292px;
-  left: 4375px;
+  top: 130%;
+  left: ;
   font-size: var(--font-size-mini);
   line-height: 25px;
   font-weight: 600;
@@ -2631,8 +2628,8 @@
 }
 .total5 {
   position: absolute;
-  top: 3293px;
-  left: 4116px;
+  top: 135%;
+  left: 4;
   font-size: var(--font-size-mini);
   line-height: 25px;
   font-weight: 600;
